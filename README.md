@@ -46,7 +46,7 @@ This project was submitted to a live competition hosted on **Kaggle**, based on 
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Paris Yang**  
 MSBAi Candidate at New York University (NYU)  
 Project developed for: _AI & Recommender Systems Course, Spring 2025_
