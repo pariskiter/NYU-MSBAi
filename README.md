@@ -39,8 +39,9 @@ This project was submitted to a live competition hosted on **Kaggle**, based on 
 ---
 
 ## Project Files
-- `notebooks/` – Full Jupyter workflow: preprocessing, modeling, evaluation
-- `submission/` – Final Kaggle submission file (.csv)
+- `train_amazon_ratings.csv`, `test_amazon_ratings.csv` - Raw data
+- `ai-recommender-system-assignment.ipynb` – Full Jupyter workflow: preprocessing, modeling, evaluation
+- `submission_baselineonly_0.882.csv` – Final Kaggle submission file (.csv)
 - `report/` – Summary of methodology, performance, and insights (PDF)
 
 ---
@@ -48,4 +49,4 @@ This project was submitted to a live competition hosted on **Kaggle**, based on 
 ## 👩‍💻 Author
 **Paris Yang**  
 MSBAi Candidate at New York University (NYU)  
-Project developed for: _AI & Recommender Systems Module, Spring 2025_
+Project developed for: _AI & Recommender Systems Course, Spring 2025_
