@@ -42,7 +42,7 @@ This project was submitted to a live competition hosted on **Kaggle**, based on 
 - `train_amazon_ratings.csv`, `test_amazon_ratings.csv` - Raw data
 - `ai-recommender-system-assignment.ipynb` – Full Jupyter workflow: preprocessing, modeling, evaluation
 - `submission_baselineonly_0.882.csv` – Final Kaggle submission file (.csv)
-- `report/` – Summary of methodology, performance, and insights (PDF)
+- `AI recommender system report/` – Summary of methodology, performance, and insights (PDF)
 
 ---
 
