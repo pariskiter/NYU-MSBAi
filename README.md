@@ -1,6 +1,6 @@
 # NYU-MSBAi
 
-# Amazon Recommender System | NYU MSBAi Final Project
+# Amazon Recommender System | NYU MSBAi AI & Recommender Systems Project
 
 ## Project Objective
 This project was developed as part of the final assignment for the **"AI & Recommender Systems"** module in the NYU MSBAi program.  
